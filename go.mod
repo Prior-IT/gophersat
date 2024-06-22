@@ -1,3 +1,3 @@
-module github.com/crillab/gophersat
+module github.com/Prior-IT/gophersat
 
 go 1.19

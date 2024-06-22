@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/crillab/gophersat/solver"
+	"github.com/Prior-IT/gophersat/solver"
 )
 
 // A Model associates variable names with a binding.
